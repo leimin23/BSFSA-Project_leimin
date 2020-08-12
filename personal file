@@ -1,0 +1,44 @@
+---
+# Display name
+title: <Leimin Gao>
+
+# Username (this should match your github username)
+authors:
+- <leimin23>
+
+superuser: false
+
+# Role/position e.g. Graduate student
+role: <Graduate student>
+
+# Organization membership
+Organizations/Affiliations:
+organizations:
+- name: <University of Calgary>
+  url: <https://www.ucalgary.ca/>
+
+# A list of your interests, add as many as you want
+interests:
+- <Scientific Machine Learning>
+- <Statistics and Data analysis>
+
+# Your educational history, add as many as you want
+education:
+  courses:
+  - course: <BSc-Mathematics>
+    institution: <University of Electronic Science and Technolody of China>
+  - course: <MSc-Statistics>
+    institution: <University of Ucalgary>
+
+# Social/Academic Networking, delete any items you don't want to use
+social:
+- icon: github
+  icon_pack: fab
+  link: <https://github.com/leimin23>
+
+user_groups:
+- committee: members
+  role: <BSFSA Project member>
+---
+<Lemin is going to do her Master degree this fall in University of Calgary. With mathematics background and two years' working experience as quantatitive analyst,
+  she has enormous passion on data analysis and is learing machine learning.>
